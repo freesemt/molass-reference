@@ -11,3 +11,5 @@ For the design philosophy of the library, see [Molass Library Design](https://fr
 To get started, follow [Molass Library Tutorial](https://freesemt.github.io/molass-tutorial/).
 
 The source code of this library can be found at [the library repository](https://github.com/freesemt/molass-library).
+
+This book is powered by [JupyterBook](https://jupyterbook.org).
