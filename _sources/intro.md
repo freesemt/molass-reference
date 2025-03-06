@@ -1,15 +1,15 @@
 # Molass Library Reference
 
-<font color="orange">WARNING: This site is under construction to be publicly browsable in April, 2025.</font>
+<font color="orange">WARNING: This book is in preparation to be publicly browsable in April, 2025.</font>
 
-Molass Library, as its name suggests, is a library style rewrite of [MOLASS](https://www.jstage.jst.go.jp/article/biophysico/20/1/20_e200001/_article), a tool for SEC-SAXS data analysis currently ported at [Photon Factory](https://pfwww.kek.jp/saxs/MOLASS.html), designed to be suitable for scripting in Jupyter notebooks, thus aimed at more flexible use in the Python ecosystem, compared to the predecessor.
+Molass Library, as its name suggests, is a library style rewrite of [MOLASS](https://www.jstage.jst.go.jp/article/biophysico/20/1/20_e200001/_article), an analytical tool for SEC-SAXS experiment data currently ported at [Photon Factory](https://pfwww.kek.jp/saxs/MOLASS.html). It is designed to be suitable for scripting in Jupyter notebooks, thereby obtaining greater flexibility compared to the predecessor thanks to the Python ecosystem diversity.
 
-This is a reference of the Molass Library. The readers can use the search box in the left sidebar to find what they want.
+To utilizethis reference, use the search box or look through the list of contents in the left sidebar to find what you need.
 
-For the theoretical explanation of the library, see [Molass Library Theory](https://freesemt.github.io/molass-theory/).
+For the theoretical explanation of the library, read [Molass Library Theory](https://freesemt.github.io/molass-theory/).
 
 To get started, follow [Molass Library Tutorial](https://freesemt.github.io/molass-tutorial/).
 
-The source code of this library can be found at [the library repository](https://github.com/freesemt/molass-library).
+The python code of the library can be found at [the library repository](https://github.com/freesemt/molass-library).
 
 This book is powered by [Jupyter Book](https://jupyterbook.org).
