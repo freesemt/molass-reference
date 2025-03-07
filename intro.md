@@ -13,3 +13,5 @@ To get started, follow [Molass Library Tutorial](https://freesemt.github.io/mola
 The python code of the library can be found at [the library repository](https://github.com/freesemt/molass-library).
 
 This book is powered by [Jupyter Book](https://jupyterbook.org).
+
+**Tip:** You can switch between dark and light modes using the toggle button at the upper right corner of the page.
